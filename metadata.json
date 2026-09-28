@@ -1,0 +1,7 @@
+{
+  "name": "Fucos",
+  "description": "تطبيق متكامل لتتبع العادات والإنتاجية والتركيز مع المساعد الذكي Nour-lv1 وتقويم السجل والتحليلات المتقدمة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
